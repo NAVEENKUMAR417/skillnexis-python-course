@@ -1,3 +1,0 @@
-hello my brother what are you doing
-Python is easy to learn.
-I am practicing file handling.
