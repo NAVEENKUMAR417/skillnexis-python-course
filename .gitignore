@@ -1,0 +1,10 @@
+
+# Secrets and private recipient data
+.env
+Week4/.env
+Week4/students.csv
+Week4/email_log.csv
+
+# IDE settings
+.idea/
+**/.idea/
